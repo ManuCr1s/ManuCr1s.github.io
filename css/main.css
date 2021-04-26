@@ -1,0 +1,24 @@
+@import url("../css/bootstrap.css");
+@import url("../icon/style.css");
+@font-face{
+    font-family:Louis;
+    src: url('../fonts/Louis\ George\ Cafe\ Light.ttf');
+}
+body{
+    font-family: Louis,arial;
+    --color_primary:#ff7f00;
+    --color_black2:#495057;
+    color:var(--color_primary);
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+img{
+    max-width: 100%;
+}
+a:hover{
+    text-decoration: none;
+}
+.iconos{
+    color: var(--color_primary);
+}
