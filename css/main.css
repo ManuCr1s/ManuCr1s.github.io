@@ -69,3 +69,7 @@ header .avatar-continer span{
       text-align: center;
       margin-right: 30px;
   }
+  .product-name{
+        color: #ff7f00;
+        font-weight: bold;
+  }
