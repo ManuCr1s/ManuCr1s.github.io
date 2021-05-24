@@ -30,7 +30,6 @@ header{
     background-color: white;
     padding: 10px 0;
     box-shadow: 0 5px 10px rgba(204,204,204,.31);
-    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -96,9 +95,6 @@ header .avatar-continer span{
       border-radius: 4px;
   }
   /*Seccion del Main*/
-   .main{
-      padding-top:80px;
-  }
 .search-container{
     padding-top: 30px;
 }
